@@ -1,2 +1,2 @@
 # Data-for-ML
-make import csv easier
+make importing csv easier
